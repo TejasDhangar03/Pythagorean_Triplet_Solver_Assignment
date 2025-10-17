@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         try {
-            const response = await fetch('http://localhost:3000/calculate-triangle', {
+            const response = await fetch('/calculate-triangle', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ ab, bc, ac })

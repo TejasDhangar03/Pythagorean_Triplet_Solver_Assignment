@@ -13,9 +13,8 @@ Check if the sides of a right triangle:
 
 form a Pythagorean triplet, and calculate:
 
-\[
-\text{Sec C + Cot A} = \frac{\text{Hypotenuse}}{\text{Base}} + \frac{\text{Perpendicular}}{\text{Base}}
-\]
+- **Sec C** = Hypotenuse / Base  
+- **Cot A** = Perpendicular / Base 
 
 - **Template Used:** Template 1 – Trigonometry  
 - The triangle diagram is **editable** (contenteditable fields), so users can update sides dynamically.
